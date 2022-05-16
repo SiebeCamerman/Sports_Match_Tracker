@@ -1,16 +1,11 @@
 # sports_match_tracker
 
-School Project
+School Project! You can find the source code of the application under the 'lib' directory.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Sports Match Tracker is an app where you can track different sports matches.
+So if you are playing with friends and you need a team, you can generate this in the app.
+You can also add timers to indicate how long you want to play. And of course you can set points per team
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Also available in the google play store: https://play.google.com/store/apps/details?id=siebecamerman.com.sports_match_tracker
